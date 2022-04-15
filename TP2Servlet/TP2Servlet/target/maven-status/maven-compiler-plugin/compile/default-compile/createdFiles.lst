@@ -1,0 +1,15 @@
+ar\org\centro8\curso\java\web\repositories\list\ClienteRepositoryFactory.class
+ar\org\centro8\curso\java\web\test\TestRepository.class
+ar\org\centro8\curso\java\web\repositories\interfaces\I_ClienteRepository.class
+ar\org\centro8\curso\java\web\test\TestConnector.class
+ar\org\centro8\curso\java\web\entities\Articulo.class
+ar\org\centro8\curso\java\web\repositories\list\ClienteRepository.class
+ar\org\centro8\curso\java\web\enums\Tipo.class
+ar\org\centro8\curso\java\web\repositories\jdbc\ArticuloRepository.class
+ar\org\centro8\curso\java\web\enums\EspecieRecomendada.class
+ar\org\centro8\curso\java\web\entities\Direccion.class
+ar\org\centro8\curso\java\web\interfaces\connectors\Connector.class
+ar\org\centro8\curso\java\web\repositories\jdbc\ClienteRepository.class
+ar\org\centro8\curso\java\web\entities\Cliente.class
+ar\org\centro8\curso\java\web\enums\TipoDocumento.class
+ar\org\centro8\curso\java\web\repositories\interfaces\I_ArticuloRepository.class

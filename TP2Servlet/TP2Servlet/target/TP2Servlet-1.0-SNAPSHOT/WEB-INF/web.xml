@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="4.0" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd">
+    <servlet>
+        <servlet-name>ClientesAlta</servlet-name>
+        <servlet-class>ar.org.centro8.curso.java.web.services.servlet.clientes.ClientesAlta</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>ClientesAll</servlet-name>
+        <servlet-class>ar.org.centro8.curso.java.web.services.servlet.clientes.ClientesAll</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>ClientesLikeApellido</servlet-name>
+        <servlet-class>ar.org.centro8.curso.java.web.services.servlet.clientes.ClientesLikeApellido</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ClientesAlta</servlet-name>
+        <url-pattern>/ClientesAlta</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ClientesAll</servlet-name>
+        <url-pattern>/ClientesAll</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ClientesLikeApellido</servlet-name>
+        <url-pattern>/ClientesLikeApellido</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>
