@@ -12,7 +12,7 @@
 - **test**: Testeo de coneccion a base de datos y repositorio
 
 ### TP2Servlet
-#### Contiene la estructura de la app y el servicio web (servlet(jdbc) y list example)
+#### Contiene la estructura de la app y el servicio web (servlet(jdbc))
 - **Docs**: Diagrama de entidades relacionadas
 - **Entities**: Entidades de la app
 - **Enums**: Enumeraciones practicas de las entidades
