@@ -1,7 +1,7 @@
-# Practicas
+# Practicas de aplicaciones web
 
-## TP1DesarrolloAppWeb
-### Contiene la estructura de la app:
+### TP1DesarrolloAppWeb
+#### Contiene la estructura de la app:
 - **Docs**: Diagrama de entidades relacionadas
 - **Entities**: Entidades de la app
 - **Enums**: Enumeraciones practicas de las entidades
@@ -11,8 +11,8 @@
 - **sql**: Archivos sql
 - **test**: Testeo de coneccion a base de datos y repositorio
 
-## TP2Servlet
-### Contiene la estructura de la app y el servicio web (servlet(dao))
+### TP2Servlet
+#### Contiene la estructura de la app y el servicio web (servlet(dao))
 - **Docs**: Diagrama de entidades relacionadas
 - **Entities**: Entidades de la app
 - **Enums**: Enumeraciones practicas de las entidades
@@ -24,8 +24,8 @@
 
 **TP2ServletCliente:** Contiene la prueba del servidor cliente servlet
 
-## TP3ApiRestDao
-### Contiene la estructura de la app y el servicio web (Api Rest (dao))
+### TP3ApiRestDao
+#### Contiene la estructura de la app y el servicio web (Api Rest (dao))
 - **Docs**: Diagrama de entidades relacionadas
 - **Entities**: Entidades de la app
 - **Enums**: Enumeraciones practicas de las entidades
@@ -37,8 +37,8 @@
 
 **TP2ServletCliente:** Contiene la prueba del servidor cliente Rest
 
-## TP4JPA
-### Contiene la estructura de la app y el servicio web (Api Rest (jpa))
+### TP4JPA
+#### Contiene la estructura de la app y el servicio web (Api Rest (jpa))
 - **Docs**: Diagrama de entidades relacionadas
 - **Entities**: Entidades de la app
 - **Enums**: Enumeraciones practicas de las entidades
