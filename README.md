@@ -12,7 +12,7 @@
 - **test**: Testeo de coneccion a base de datos y repositorio
 
 ### TP2Servlet
-#### Contiene la estructura de la app y el servicio web (servlet(dao))
+#### Contiene la estructura de la app y el servicio web (servlet(jdbc) y list example)
 - **Docs**: Diagrama de entidades relacionadas
 - **Entities**: Entidades de la app
 - **Enums**: Enumeraciones practicas de las entidades
@@ -25,7 +25,7 @@
 **TP2ServletCliente:** Contiene la prueba del servidor cliente servlet
 
 ### TP3ApiRestDao
-#### Contiene la estructura de la app y el servicio web (Api Rest (dao))
+#### Contiene la estructura de la app y el servicio web (Api Rest (jdbc))
 - **Docs**: Diagrama de entidades relacionadas
 - **Entities**: Entidades de la app
 - **Enums**: Enumeraciones practicas de las entidades
