@@ -35,7 +35,7 @@
 - **sql**: Archivos sql
 - **test**: Testeo de coneccion a base de datos y repositorio
 
-**TP2ServletCliente:** Contiene la prueba del servidor cliente Rest
+**TP3ApiRestDaoCliente:** Contiene la prueba del servidor cliente Rest
 
 ### TP4JPA
 #### Contiene la estructura de la app y el servicio web (Api Rest (jpa))
@@ -47,3 +47,5 @@
 - **services**: servicio web (Rest)
 - **sql**: Archivos sql
 - **test**: Testeo de coneccion a base de datos y repositorio
+
+**TP4JPACliente:** Contiene la prueba del servidor cliente Rest
