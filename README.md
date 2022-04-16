@@ -1,6 +1,6 @@
 # Practicas de aplicaciones web
 
-## TP1DesarrolloAppWeb
+### TP1DesarrolloAppWeb
 #### Contiene la estructura de la app:
 - **Docs**: Diagrama de entidades relacionadas
 - **Entities**: Entidades de la app
@@ -11,7 +11,7 @@
 - **sql**: Archivos sql
 - **test**: Testeo de coneccion a base de datos y repositorio
 
-## TP2Servlet
+### TP2Servlet
 #### Contiene la estructura de la app y el servicio web (servlet(jdbc))
 - **Docs**: Diagrama de entidades relacionadas
 - **Entities**: Entidades de la app
@@ -24,7 +24,7 @@
 
 **TP2ServletCliente:** Contiene la prueba del servidor cliente servlet
 
-## TP3ApiRestDao
+### TP3ApiRestDao
 #### Contiene la estructura de la app y el servicio web (Api Rest (jdbc))
 - **Docs**: Diagrama de entidades relacionadas
 - **Entities**: Entidades de la app
@@ -37,7 +37,7 @@
 
 **TP3ApiRestDaoCliente:** Contiene la prueba del servidor cliente Rest
 
-## TP4JPA
+### TP4JPA
 #### Contiene la estructura de la app y el servicio web (Api Rest (jpa))
 - **Docs**: Diagrama de entidades relacionadas
 - **Entities**: Entidades de la app
